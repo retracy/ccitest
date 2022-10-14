@@ -8,6 +8,6 @@
       "outDir": "dist",
       "sourceMap": true
     },
-    "include": ["src/**/*", "tests/math.spec.ts", "tests/math.spec.ts"],
+    "include": ["src/**/*"],
     "exclude": ["node_modules", "**/*.spec.ts"]
   }
